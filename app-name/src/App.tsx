@@ -21,9 +21,12 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <button className="addToCard" > 
-          Add to card
-        </button>
+        </div>
+        <div className="addToCart" > 
+        <form onSubmit={() => alert('The product is added to cart')}>
+        <input />
+        <button>Add to cart</button>
+      </form>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>

@@ -1,4 +1,4 @@
-interface Product { 
+interface Product () {
 
     name: String;
     price: Number;
