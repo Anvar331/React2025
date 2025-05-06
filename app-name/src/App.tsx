@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
         <h2> <button id = "getAllCategories"> <b> Get All Categories  </b> </button> </h2>
-        <div id="allCategoryData"></div>
+        <div id="list of categories"></div>
         <br></br>
       <h1>Vite + React</h1>
       <div className="card">
