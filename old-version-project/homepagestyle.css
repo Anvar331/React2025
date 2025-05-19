@@ -1,11 +1,9 @@
 body {
-
 	background: url("./eshopbackground.jpg");
 	background-position: right;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	
   }
 
   li {
