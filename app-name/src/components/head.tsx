@@ -17,6 +17,6 @@ function head () {
             </style>
             </nav>
     )
-}
+}()
 
 export default head
